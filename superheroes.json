@@ -24,15 +24,12 @@
       ]
     },
     {
-      "name": "Eternal Flame",
-      "age": 1000000,
-      "secretIdentity": "Unknown",
+      "name": "Spider Man",
+      "age": 20,
+      "secretIdentity": "Peter Parker",
       "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "Superhuman reflexes",
+        "Net building"
       ]
     }
   ]
