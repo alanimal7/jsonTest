@@ -1,7 +1,7 @@
 {
   "squadName" : "Super hero squad",
-  "homeTown" : "New York",
-  "formed" : 1998,
+  "homeTown" : "Metro City",
+  "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
