@@ -5,13 +5,13 @@
   "secretBase": "Super tower",
   "active": true,
   "members": [{
-      "name": "Iron Man",
-      "age": 35,
-      "secretIdentity": "Tony Stark",
+      "name": "Molecule Man",
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
       "powers": [
-        "Flying",
-        "Weapons",
-        "Shield",
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
       ]
     },
     {
