@@ -15,12 +15,11 @@
       ]
     },
     {
-      "name": "Madame Uppercut",
-      "age": 39,
-      "secretIdentity": "Jane Wilson",
+      "name": "Batman",
+      "age": 37,
+      "secretIdentity": "Bruce Wayne",
       "powers": [
-        "Million tonne punch",
-        "Damage resistance",
+        "Gadgets",
         "Superhuman reflexes"
       ]
     },
